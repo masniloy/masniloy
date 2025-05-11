@@ -12,7 +12,7 @@
 ##
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=masniloy&theme=radical&hide_border=false&bg_color=0D1117&point=FF41B4&area=true&count_private=true&cache_seconds=0)
-
+<!--
 ##
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masniloy&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
 
@@ -20,3 +20,4 @@
 
 ##
 ![Trophies](https://github-profile-trophy.vercel.app/?username=masniloy&theme=radical)
+-->
