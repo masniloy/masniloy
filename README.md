@@ -1,4 +1,4 @@
-## My Tech Stack
+## Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
@@ -25,4 +25,3 @@
 ## GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=masniloy&theme=radical)
 
----
