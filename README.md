@@ -12,7 +12,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 -->
 ##
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=masniloy&theme=radical&hide_border=false&bg_color=transparent&point=transparent&area=true&count_private=true&cache_seconds=0)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=masniloy&theme=radical&hide_border=false&bg_color=transparent&point=transparent&area=true&count_private=true)
 <!--
 ##
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masniloy&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
